@@ -355,8 +355,10 @@ article .icon {
 
 /* PROJECTS SECTION */
 
+
 #projects {
   position: relative;
+  
 }
 
 .color-container {
@@ -386,7 +388,9 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 70vh;
+  padding-top: 4vh;
+  height: 96vh;
+
 }
 
 .contact-info-upper-container {
